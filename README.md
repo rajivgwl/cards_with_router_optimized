@@ -3,8 +3,7 @@ Follow the following steps to test the comment application.
 
 1)Clone the repository from the url
 
-    https://github.com/rksystech/comment_application.git
-
+ https://github.com/rajiv-shrivastava/cards_with_router_optimized.git
 
 2) Set up node on your machine by running the command
 

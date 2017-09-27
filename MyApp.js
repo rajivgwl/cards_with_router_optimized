@@ -5,7 +5,7 @@ import Hearts from './Hearts.js';
 import Diamonds from './Diamonds.js';
 import Clubs from './Clubs.js';
 
-var { Router,Route,IndexRoute,IndexLink,browserHistory,Link } = ReactRouter;
+var { Link } = ReactRouter;
 
 
 class MyApp extends React.Component {

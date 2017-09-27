@@ -17,7 +17,7 @@ class MyRoute extends React.Component {
    { 
 
    	return (
-	    <Router>
+	    <Router history={browserHistory}>
 	        <Route path="/" component={MyApp}>
 	              <IndexRoute component={Allcards}/>
 	                  <Route path="/Spades" component={Spades}> </Route>

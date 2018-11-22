@@ -5,7 +5,7 @@ Follow the following steps to test the comment application.
 
  https://github.com/rajiv-shrivastava/cards_with_router_optimized.git
 
-2) Set up node on your machine by running the command
+2) Set up node modules on your machine by running the command
 
     npm install or sudo npm install
 

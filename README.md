@@ -1,4 +1,4 @@
-Follow the following steps to test the comment application.
+Follow the following steps to test the  application.
 
 
 1)Clone the repository from the url
